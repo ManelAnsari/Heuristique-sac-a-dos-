@@ -1,0 +1,6 @@
+Méthode,Temps d'exécution,Solution
+Algorithme Glouton,0.0,"{78, 22}"
+Descente Rapide,0.0009968280792236328,"{78, 22}"
+Méthode Constructive randon,0.0
+Méthode GRASP,0.23004770278930664,"{20, 92}"
+Méthode Tabou,0.058994293212890625
